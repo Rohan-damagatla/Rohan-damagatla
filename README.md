@@ -19,7 +19,7 @@
 ```yaml
 name: Rohan Kumar Reddy Damagatla
 located_in: Ottawa, Ontario
-current_job: ML Engineer
+current_job: ML Engineer (Currently looking for full-time jobs across Canada)
 education:
   [
     "Master of Applied Science in Data Science",
